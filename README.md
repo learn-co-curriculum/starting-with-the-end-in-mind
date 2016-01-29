@@ -29,4 +29,4 @@ Map out your assessment, and similarly, list out the requirements that need to b
 
 Now that you have these projects ready, let’s think about your course as a map that guides your students to this project. 
 
-<a href='https://learn.co/lessons/starting-with-the-end-in-mind' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/starting-with-the-end-in-mind' title='When designing your course, think of what you want your student to accomplish. '>When designing your course, think of what you want your student to accomplish. </a> on Learn.co and start learning to code for free.</p>
